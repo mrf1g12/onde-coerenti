@@ -1,4 +1,4 @@
-# Onde coerenti laser e olograifa: demo
+# Onde coerenti laser e olografia: demo
 
 ## Come usare i notebok
 Per eseguire i notebook, una volta aperti è sufficiente cliccare su **Run -> Run All Cells**.
