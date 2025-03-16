@@ -29,6 +29,7 @@ jupyterlab_miami_nights
 # Python: ipywidget library for Jupyter notebooks (optional)
 ipywidgets
 anywidget
+vpython
 # Python: interative Matplotlib library for Jupyter notebooks (optional)
 ipympl
 
